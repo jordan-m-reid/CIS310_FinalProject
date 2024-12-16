@@ -15,4 +15,7 @@ Circuits:
 
 <img width="740" alt="Screen Shot 2024-12-15 at 9 55 15 PM" src="https://github.com/user-attachments/assets/454fa924-5009-47b0-afdb-c48ec51c1bce" />
 
+
+Screenshot of Serial Monitor Output:
+
 ![Screenshot 2024-12-15 231259](https://github.com/user-attachments/assets/6af066bb-31d4-4108-b97b-ddbefcc3f557)
